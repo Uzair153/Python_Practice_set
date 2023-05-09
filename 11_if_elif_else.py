@@ -1,5 +1,5 @@
 name = input("Enter the name of student : ")
-a = int(input("Enter the marks of Math : "))
+a = int(input("Enter the marks of Math : /n"))
 b = int(input("Enter the marks of English: "))
 c = int(input("Enter the marks of Physics: "))
 d = int(input("Enter the marks of Computer : "))
