@@ -1,8 +1,9 @@
+# Ask for shop name and code
 storename = input("Enter the Name of store :")
 storecode = int(input("Enter the code of store :"))
 item= int(input("How Many items you want to store :"))
 products=[]
-
+# Loop for enter Multiple Items
 for i in range(item):
     print(f"Enter the Name of Product {i+1} :")
     pname=input("NAME :")    

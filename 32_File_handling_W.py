@@ -1,0 +1,5 @@
+f = open("33_write.txt", "w")
+f.write("This is First line\n")
+f.write("This is 2nd line\n")
+f.write("This is 3rd line\n")
+f.close()

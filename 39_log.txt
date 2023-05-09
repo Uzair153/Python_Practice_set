@@ -1,0 +1,175 @@
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | python | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | python | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | WARNING | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
+2023-05-09 10:23:45 | INFO | Starting program
+2023-05-09 10:23:45 | DEBUG | Reading configuration file
+2023-05-09 10:23:46 | Python | Invalid configuration parameter found
+2023-05-09 10:23:47 | ERROR | Unable to establish connection to database
+2023-05-09 10:23:47 | CRITICAL | Program terminated unexpectedly
