@@ -1,0 +1,5 @@
+names = ['Alice', 'Bob', 'Charlie', 'Daisy', 'Emily', 'Frank', 'Grace', 'Henry', 'Isabelle', 'Jack',          'Kate', 'Liam', 'Mia', 'Nathan', 'Olivia', 'Peter', 'Quinn', 'Rachel', 'Samuel', 'Thomas',          'Uma', 'Victoria', 'William', 'Xander', 'Yara', 'Zara', 'Benjamin', 'Chloe', 'David', 'Emma',         'Fiona', 'George', 'Hannah', 'Ian', 'Julia', 'Katie', 'Leo', 'Melanie', 'Noah', 'Oscar',         'Penelope', 'Quentin', 'Rebecca', 'Sophie', 'Tara', 'Uriel', 'Violet', 'Wendy', 'Xavier',         'Yvonne', 'Zoe', 'Adam', 'Bella', 'Cameron', 'Daniel', 'Ella', 'Felix', 'Greta', 'Hazel',         'Ivy', 'Jasper', 'Kylie', 'Landon', 'Madison', 'Nina', 'Owen', 'Paige', 'Quincy', 'Riley',         'Samantha', 'Toby', 'Una', 'Vincent', 'Winston', 'Ximena', 'Yvette', 'Zack', 'Avery', 'Brooke']
+n=input("Enter First Letter :")
+for name in names:
+    if name.startswith(n):
+        print(f"Hello , {name}")
